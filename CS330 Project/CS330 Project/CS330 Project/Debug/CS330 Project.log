@@ -1,0 +1,14 @@
+﻿  CS330 Project.cpp
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(116,23): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(385,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(554,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(555,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(559,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(560,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(562,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\CS330 Project\CS330 Project.cpp(563,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CS330 Project.vcxproj -> C:\Users\codyp\OneDrive\Desktop\SNHU\CS-330\CS330 Project\CS330 Project\Debug\CS330 Project.exe
