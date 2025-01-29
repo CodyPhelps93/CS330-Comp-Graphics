@@ -1,3 +1,7 @@
+# Description of project
+The goal of this project was to build a 3d design using OpenGL. This utlized basic shapes that were moved together to create the image below. Each shape that is used was created using different vectors and can be found under the [MeshCreation class](https://github.com/CodyPhelps93/CS330-Comp-Graphics/blob/main/CS330%20Project/CS330%20Project/CS330%20Project/MeshCreation.cpp). The shapes are then built my own built rendering function.
+
+# School Questions
 1.	How do I approach designing software?
 *	What new design skills has your work on the project helped you to craft? <br>
 I learned that I need to draw things out more. When I actually drew out the vertices and mapped them out on paper it made plotting them in the code just that much easier.
@@ -17,5 +21,6 @@ Research is vital. I spent more time researching different techniques for implem
 It allowed me to see how vital researching different ways of coding and planning can help solve and issue. Just by drawing things out on paper and physically drawing out my world helped to layout where the objects needed to go. I also see the value of separating code and not just having 1 file where everything is coded at.
 *	How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway? <br>
 I will plan my projects out better while also doing more research into different implementation strategies. Up until now I could just rely on going straight to coding but this project has shown me just how important the planning stage is. 
-
+# Screenshot
+![alt text](https://github.com/CodyPhelps93/CS330-Comp-Graphics/blob/main/Screenshot.png?raw=true)
 
